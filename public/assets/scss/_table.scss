@@ -1,0 +1,34 @@
+table {
+  border-radius: 5px;
+}
+
+td {
+  color: greenyellow;
+  margin: 0 5px;
+  padding: 5px;
+}
+
+th {
+  margin: 10px 10px;
+}
+
+.table {
+  animation: blinkingText 2s infinite;
+}
+@keyframes blinkingText {
+  0% {
+    color: greenyellow;
+  }
+  49% {
+    color: greenyellow;
+  }
+  60% {
+    color: transparent;
+  }
+  99% {
+    color: transparent;
+  }
+  100% {
+    color: greenyellow;
+  }
+}

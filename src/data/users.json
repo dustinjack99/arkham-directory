@@ -1,0 +1,184 @@
+{
+  "results": [
+    {
+      "user": "harleyquin890",
+      "name": {
+        "first": "Harley",
+        "last": "Quinzel"
+      },
+      "department": {
+        "title": "Psychiatrist",
+        "name": "Ward II"
+      },
+      "incarcerated": true
+    },
+    {
+      "user": "dr-chill",
+      "name": {
+        "first": "Victor",
+        "last": "Fries"
+      },
+      "department": {
+        "title": "Cryogentic Scientist",
+        "name": "Ward III"
+      },
+      "incarcerated": true
+    },
+    {
+      "user": "waddlefeet",
+      "name": {
+        "first": "Oswald",
+        "last": "Cobblepot"
+      },
+      "department": {
+        "title": "Night Club Owner",
+        "name": "Ward III"
+      },
+      "incarcerated": true
+    },
+    {
+      "user": "PoIsOnEd",
+      "name": {
+        "first": "Pamela",
+        "last": "Isley"
+      },
+      "department": {
+        "title": "Biochemist",
+        "name": "Ward III"
+      },
+      "incarcerated": true
+    },
+    {
+      "user": "headofthedemon",
+      "name": {
+        "first": "Ra's",
+        "last": "al Ghul"
+      },
+      "department": {
+        "title": "???",
+        "name": "Ward I"
+      },
+      "incarcerated": false
+    },
+    {
+      "user": "bornonamundie",
+      "name": {
+        "first": "Solomon",
+        "last": "Grundy"
+      },
+      "department": {
+        "title": "Merchant",
+        "name": "Ward I"
+      },
+      "incarcerated": true
+    },
+    {
+      "user": "B00",
+      "name": {
+        "first": "Jonathon",
+        "last": "Crane"
+      },
+      "department": {
+        "title": "Professor",
+        "name": "Ward II"
+      },
+      "incarcerated": true
+    },
+    {
+      "user": "r1ddl3m3th15",
+      "name": {
+        "first": "Edward",
+        "last": "Nigma"
+      },
+      "department": {
+        "title": "Inventor",
+        "name": "Ward II"
+      },
+      "incarcerated": true
+    },
+    {
+      "user": "2-faced",
+      "name": {
+        "first": "Harvey",
+        "last": "Dent"
+      },
+      "department": {
+        "title": "Attorney",
+        "name": "Ward I"
+      },
+      "incarcerated": true
+    },
+    {
+      "user": "haHAhaHAhaHAha",
+      "name": {
+        "first": "???",
+        "last": "???"
+      },
+      "department": {
+        "title": "Clown",
+        "name": "Ward I"
+      },
+      "incarcerated": false
+    },
+    {
+      "user": "iKnowWhoYouAre",
+      "name": {
+        "first": "Hugo",
+        "last": "Strange"
+      },
+      "department": {
+        "title": "Psychologist",
+        "name": "Ward II"
+      },
+      "incarcerated": true
+    },
+    {
+      "user": "sculpture-walk",
+      "name": {
+        "first": "Cassius",
+        "last": "Payne"
+      },
+      "department": {
+        "title": "Actor",
+        "name": "Ward I"
+      },
+      "incarcerated": true
+    },
+    {
+      "user": "HereKittyKitty",
+      "name": {
+        "first": "Selina",
+        "last": "Kyle"
+      },
+      "department": {
+        "title": "Jewelry Thief",
+        "name": "Ward II"
+      },
+      "incarcerated": false
+    },
+    {
+      "user": "bat_chiropractor",
+      "name": {
+        "first": "???",
+        "last": "???"
+      },
+      "department": {
+        "title": "Venom Addict",
+        "name": "Ward I"
+      },
+      "incarcerated": true
+    },
+    {
+      "user": "shhh",
+      "name": {
+        "first": "Thomas",
+        "last": "Elliot"
+      },
+      "department": {
+        "title": "Surgeon",
+        "name": "Ward III"
+      },
+      "incarcerated": true
+    }
+  ]
+}

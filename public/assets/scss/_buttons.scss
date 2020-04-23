@@ -1,0 +1,29 @@
+@import "variables";
+
+.buttonBox {
+  color: red;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+  width: 65%;
+
+  div {
+    button {
+      border: 1px solid red;
+      color: red;
+      margin: 5px;
+      padding: 10px;
+    }
+
+    button:hover {
+      border: greenyellow 1px solid;
+      background-color: black;
+      color: greenyellow;
+      label {
+        color: greenyellow;
+      }
+    }
+  }
+}
