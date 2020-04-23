@@ -1,0 +1,41 @@
+@import "buttons";
+@import "table";
+@import "variables";
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 5px;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(90, 95, 100);
+}
+
+#greetings {
+  border-bottom: 1px solid greenyellow;
+  color: greenyellow;
+}
+
+main {
+  background-color: black;
+  border: 5px solid black;
+  text-align: center;
+  max-width: 900px;
+  width: 95%;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 10px;
+}
+
+#root {
+  background-color: black;
+  border: 5px solid publack;
+  padding: 10px;
+}

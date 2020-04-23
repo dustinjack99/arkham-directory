@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arkham-directory/static/css/main.d1b05096.chunk.css",
+    "main.js": "/arkham-directory/static/js/main.c7dd4e1d.chunk.js",
+    "main.js.map": "/arkham-directory/static/js/main.c7dd4e1d.chunk.js.map",
+    "runtime-main.js": "/arkham-directory/static/js/runtime-main.1c36120f.js",
+    "runtime-main.js.map": "/arkham-directory/static/js/runtime-main.1c36120f.js.map",
+    "static/js/2.c228a7df.chunk.js": "/arkham-directory/static/js/2.c228a7df.chunk.js",
+    "static/js/2.c228a7df.chunk.js.map": "/arkham-directory/static/js/2.c228a7df.chunk.js.map",
+    "index.html": "/arkham-directory/index.html",
+    "precache-manifest.bd8a302b06c03da64acf314022befe4f.js": "/arkham-directory/precache-manifest.bd8a302b06c03da64acf314022befe4f.js",
+    "service-worker.js": "/arkham-directory/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/arkham-directory/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c228a7df.chunk.js.LICENSE.txt": "/arkham-directory/static/js/2.c228a7df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c36120f.js",
+    "static/js/2.c228a7df.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.c7dd4e1d.chunk.js"
+  ]
+}
